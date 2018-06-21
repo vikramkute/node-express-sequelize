@@ -1,2 +1,1 @@
-# node-express-sequelize
-Sample Node.js API with Express Server and Sequelize ORM
+# Sample Node Express Sequelize API
