@@ -31,7 +31,7 @@ router.get('/', async function(req, res) {
   res.send('Filters API')
 })
 
-// with raw sql query
+// with sequelize query
 router.get('/sampleData', async function(req, res) {
   models.targetSynonyms
     .update(
