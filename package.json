@@ -1,5 +1,5 @@
 {
-  "name": "Sample Node Express Sequelize API",
+  "name": "sample-node-express-sequelize-api",
   "version": "0.0.0",
   "private": true,
   "scripts": {
